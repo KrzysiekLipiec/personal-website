@@ -5,8 +5,7 @@ function App() {
     <>
       <h1>My website!</h1>
       <p>Welcome to my website. It is currently under construction</p>
-      <p>Thanks for stopping by!</p>
-      {/*Hi, congratulation, you found scared text!*/}
+      <p style={{ marginTop: "-10px" }}>Thanks for stopping by!</p>
     </>
   );
 }
