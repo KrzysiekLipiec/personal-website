@@ -5,7 +5,7 @@ function App() {
     <>
       <h1>My website!</h1>
       <p>Welcome to my website. It is currently under construction</p>
-      <p style={{ marginTop: "-12px" }}>Thanks for stopping by!</p>
+      <p style={{ marginTop: "-13px" }}>Thanks for stopping by!</p>
     </>
   );
 }
